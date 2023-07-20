@@ -7,18 +7,18 @@ Capactive sensing pcb for [Bully keyboard](https://mkh.works/#bully).
 - MCU: stm32F072CB
 
 ### Supported layouts
-![](img/layout.png)
+![](img/layout.png) + 6u
 
 ### Production files
 JLCPCB [production files](pcb_production) are provided. Component positions have been verified, but as always, do your own diligence when ordering.
 
 ## Misc
 #### PCB Renders
-![](./documentation/le_capybara-top.jpg)
-![](./documentation/le_capybara-bottom.jpg)
+![](./documentation/capybully-top.jpg)
+![](./documentation/capybully-bottom.jpg)
 
 #### Interactive BoM
-Download and open this [html](./documentation/le_capybara-ibom.html) locally
+Download and open this [html](./documentation/capybully-ibom.html) locally
 
 #### Schematic
-[pdf](./documentation/le_capybara-schematic.pdf)
+[pdf](./documentation/capybully-schematic.pdf)
