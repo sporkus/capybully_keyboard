@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "capacitive_sensors")(type "KiCad")(uri "${KIPRJMOD}/Libraries/capacitive_sensors.pretty")(options "")(descr ""))
+  (lib (name "modified_footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/modified_footprints.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/random-keyboard-parts.pretty")(options "")(descr ""))
+)
