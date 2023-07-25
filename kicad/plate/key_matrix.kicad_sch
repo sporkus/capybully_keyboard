@@ -1355,7 +1355,7 @@
     (property "Value" "EC_SW" (at 48.26 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 48.26 46.355 0)
+    (property "Footprint" "" (at 48.26 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 48.26 46.355 0)
@@ -1375,7 +1375,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW2") (unit 1)
         )
@@ -1397,7 +1397,7 @@
     (property "Value" "EC_SW" (at 119.38 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 119.38 99.695 0)
+    (property "Footprint" "" (at 119.38 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 119.38 99.695 0)
@@ -1417,7 +1417,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW32") (unit 1)
         )
@@ -1439,7 +1439,7 @@
     (property "Value" "EC_SW" (at 30.48 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 30.48 46.355 0)
+    (property "Footprint" "" (at 30.48 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 30.48 46.355 0)
@@ -1459,7 +1459,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW1") (unit 1)
         )
@@ -1481,7 +1481,7 @@
     (property "Value" "EC_SW" (at 172.72 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 172.72 99.695 0)
+    (property "Footprint" "" (at 172.72 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 172.72 99.695 0)
@@ -1501,7 +1501,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW35") (unit 1)
         )
@@ -1523,7 +1523,7 @@
     (property "Value" "EC_SW" (at 154.94 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 154.94 99.695 0)
+    (property "Footprint" "" (at 154.94 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 154.94 99.695 0)
@@ -1543,7 +1543,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW34") (unit 1)
         )
@@ -1565,7 +1565,7 @@
     (property "Value" "EC_SW" (at 154.94 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 154.94 73.025 0)
+    (property "Footprint" "" (at 154.94 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 154.94 73.025 0)
@@ -1585,7 +1585,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW22") (unit 1)
         )
@@ -1607,7 +1607,7 @@
     (property "Value" "EC_SW" (at 137.16 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 137.16 126.365 0)
+    (property "Footprint" "" (at 137.16 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 137.16 126.365 0)
@@ -1627,7 +1627,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW44") (unit 1)
         )
@@ -1649,7 +1649,7 @@
     (property "Value" "EC_SW" (at 66.04 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 66.04 126.365 0)
+    (property "Footprint" "" (at 66.04 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 66.04 126.365 0)
@@ -1669,7 +1669,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW41") (unit 1)
         )
@@ -1691,7 +1691,7 @@
     (property "Value" "EC_SW" (at 172.72 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 172.72 46.355 0)
+    (property "Footprint" "" (at 172.72 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 172.72 46.355 0)
@@ -1711,7 +1711,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW9") (unit 1)
         )
@@ -1733,7 +1733,7 @@
     (property "Value" "EC_SW" (at 208.28 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 208.28 46.355 0)
+    (property "Footprint" "" (at 208.28 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 208.28 46.355 0)
@@ -1753,7 +1753,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW11") (unit 1)
         )
@@ -1775,7 +1775,7 @@
     (property "Value" "EC_SW" (at 30.48 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 30.48 126.365 0)
+    (property "Footprint" "" (at 30.48 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 30.48 126.365 0)
@@ -1795,7 +1795,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW39") (unit 1)
         )
@@ -1817,7 +1817,7 @@
     (property "Value" "EC_SW" (at 30.48 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 30.48 99.695 0)
+    (property "Footprint" "" (at 30.48 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 30.48 99.695 0)
@@ -1837,7 +1837,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW27") (unit 1)
         )
@@ -1859,7 +1859,7 @@
     (property "Value" "EC_SW" (at 172.72 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 172.72 73.025 0)
+    (property "Footprint" "" (at 172.72 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 172.72 73.025 0)
@@ -1879,7 +1879,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW23") (unit 1)
         )
@@ -1909,7 +1909,7 @@
     )
     (pin "1" (uuid cebda872-3046-4580-b801-dbf818b88c0d))
     (instances
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "#PWR025") (unit 1)
         )
@@ -1926,7 +1926,7 @@
     (property "Value" "EC_SW" (at 190.5 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 190.5 46.355 0)
+    (property "Footprint" "" (at 190.5 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 190.5 46.355 0)
@@ -1946,7 +1946,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW10") (unit 1)
         )
@@ -1968,7 +1968,7 @@
     (property "Value" "EC_SW" (at 226.06 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 226.06 99.695 0)
+    (property "Footprint" "" (at 226.06 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 226.06 99.695 0)
@@ -1988,7 +1988,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW38") (unit 1)
         )
@@ -2010,7 +2010,7 @@
     (property "Value" "EC_SW" (at 101.6 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 101.6 46.355 0)
+    (property "Footprint" "" (at 101.6 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 101.6 46.355 0)
@@ -2030,7 +2030,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW5") (unit 1)
         )
@@ -2052,7 +2052,7 @@
     (property "Value" "EC_SW" (at 48.26 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 48.26 73.025 0)
+    (property "Footprint" "" (at 48.26 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 48.26 73.025 0)
@@ -2072,7 +2072,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW16") (unit 1)
         )
@@ -2094,7 +2094,7 @@
     (property "Value" "EC_SW" (at 208.28 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 208.28 73.025 0)
+    (property "Footprint" "" (at 208.28 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 208.28 73.025 0)
@@ -2114,7 +2114,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW25") (unit 1)
         )
@@ -2136,7 +2136,7 @@
     (property "Value" "EC_SW" (at 190.5 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 190.5 73.025 0)
+    (property "Footprint" "" (at 190.5 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 190.5 73.025 0)
@@ -2156,7 +2156,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW24") (unit 1)
         )
@@ -2186,7 +2186,7 @@
     )
     (pin "1" (uuid dd6d5824-90cb-4848-a69a-f0899c2633bf))
     (instances
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "#PWR024") (unit 1)
         )
@@ -2203,7 +2203,7 @@
     (property "Value" "EC_SW" (at 190.5 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 190.5 99.695 0)
+    (property "Footprint" "" (at 190.5 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 190.5 99.695 0)
@@ -2223,7 +2223,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW36") (unit 1)
         )
@@ -2245,7 +2245,7 @@
     (property "Value" "EC_SW" (at 66.04 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 66.04 99.695 0)
+    (property "Footprint" "" (at 66.04 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 66.04 99.695 0)
@@ -2265,7 +2265,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW29") (unit 1)
         )
@@ -2287,7 +2287,7 @@
     (property "Value" "EC_SW" (at 66.04 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 66.04 46.355 0)
+    (property "Footprint" "" (at 66.04 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 66.04 46.355 0)
@@ -2307,7 +2307,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW3") (unit 1)
         )
@@ -2329,7 +2329,7 @@
     (property "Value" "EC_SW" (at 190.5 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 190.5 126.365 0)
+    (property "Footprint" "" (at 190.5 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 190.5 126.365 0)
@@ -2349,7 +2349,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW45") (unit 1)
         )
@@ -2371,7 +2371,7 @@
     (property "Value" "EC_SW" (at 101.6 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 101.6 99.695 0)
+    (property "Footprint" "" (at 101.6 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 101.6 99.695 0)
@@ -2391,7 +2391,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW31") (unit 1)
         )
@@ -2413,7 +2413,7 @@
     (property "Value" "EC_SW" (at 208.28 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 208.28 126.365 0)
+    (property "Footprint" "" (at 208.28 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 208.28 126.365 0)
@@ -2433,7 +2433,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW46") (unit 1)
         )
@@ -2455,7 +2455,7 @@
     (property "Value" "EC_SW" (at 137.16 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 137.16 46.355 0)
+    (property "Footprint" "" (at 137.16 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 137.16 46.355 0)
@@ -2475,7 +2475,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW7") (unit 1)
         )
@@ -2497,7 +2497,7 @@
     (property "Value" "EC_SW" (at 119.38 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 119.38 73.025 0)
+    (property "Footprint" "" (at 119.38 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 119.38 73.025 0)
@@ -2517,7 +2517,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW20") (unit 1)
         )
@@ -2539,7 +2539,7 @@
     (property "Value" "EC_SW" (at 208.28 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 208.28 99.695 0)
+    (property "Footprint" "" (at 208.28 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 208.28 99.695 0)
@@ -2559,7 +2559,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW37") (unit 1)
         )
@@ -2589,7 +2589,7 @@
     )
     (pin "1" (uuid 271822a5-1560-41a4-8d60-ac189560deba))
     (instances
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "#PWR021") (unit 1)
         )
@@ -2606,7 +2606,7 @@
     (property "Value" "EC_SW" (at 119.38 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 119.38 126.365 0)
+    (property "Footprint" "" (at 119.38 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 119.38 126.365 0)
@@ -2626,7 +2626,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW43") (unit 1)
         )
@@ -2648,7 +2648,7 @@
     (property "Value" "EC_SW" (at 30.48 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 30.48 73.025 0)
+    (property "Footprint" "" (at 30.48 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 30.48 73.025 0)
@@ -2668,7 +2668,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW15") (unit 1)
         )
@@ -2690,7 +2690,7 @@
     (property "Value" "EC_SW" (at 48.26 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 48.26 99.695 0)
+    (property "Footprint" "" (at 48.26 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 48.26 99.695 0)
@@ -2710,7 +2710,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW28") (unit 1)
         )
@@ -2732,7 +2732,7 @@
     (property "Value" "EC_SW" (at 48.26 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 48.26 126.365 0)
+    (property "Footprint" "" (at 48.26 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 48.26 126.365 0)
@@ -2752,7 +2752,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW40") (unit 1)
         )
@@ -2774,7 +2774,7 @@
     (property "Value" "EC_SW" (at 226.06 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 226.06 73.025 0)
+    (property "Footprint" "" (at 226.06 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 226.06 73.025 0)
@@ -2794,7 +2794,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW26") (unit 1)
         )
@@ -2816,7 +2816,7 @@
     (property "Value" "EC_SW" (at 83.82 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 83.82 73.025 0)
+    (property "Footprint" "" (at 83.82 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 83.82 73.025 0)
@@ -2836,7 +2836,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW18") (unit 1)
         )
@@ -2858,7 +2858,7 @@
     (property "Value" "EC_SW" (at 264.795 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 264.795 46.355 0)
+    (property "Footprint" "" (at 264.795 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 264.795 46.355 0)
@@ -2878,7 +2878,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW14") (unit 1)
         )
@@ -2900,7 +2900,7 @@
     (property "Value" "EC_SW" (at 101.6 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 101.6 126.365 0)
+    (property "Footprint" "" (at 101.6 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 101.6 126.365 0)
@@ -2920,7 +2920,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW42") (unit 1)
         )
@@ -2942,7 +2942,7 @@
     (property "Value" "EC_SW" (at 154.94 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 154.94 46.355 0)
+    (property "Footprint" "" (at 154.94 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 154.94 46.355 0)
@@ -2962,7 +2962,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW8") (unit 1)
         )
@@ -2992,7 +2992,7 @@
     )
     (pin "1" (uuid 67ec2631-c8e6-42b9-a392-2899ab45597a))
     (instances
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "#PWR022") (unit 1)
         )
@@ -3009,7 +3009,7 @@
     (property "Value" "EC_SW" (at 66.04 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 66.04 73.025 0)
+    (property "Footprint" "" (at 66.04 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 66.04 73.025 0)
@@ -3029,7 +3029,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW17") (unit 1)
         )
@@ -3051,7 +3051,7 @@
     (property "Value" "EC_SW" (at 226.06 122.555 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 226.06 126.365 0)
+    (property "Footprint" "" (at 226.06 126.365 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 226.06 126.365 0)
@@ -3071,7 +3071,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW47") (unit 1)
         )
@@ -3093,7 +3093,7 @@
     (property "Value" "EC_SW" (at 137.16 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 137.16 99.695 0)
+    (property "Footprint" "" (at 137.16 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 137.16 99.695 0)
@@ -3113,7 +3113,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW33") (unit 1)
         )
@@ -3135,7 +3135,7 @@
     (property "Value" "EC_SW" (at 83.82 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 83.82 99.695 0)
+    (property "Footprint" "" (at 83.82 99.695 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 83.82 99.695 0)
@@ -3155,7 +3155,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW30") (unit 1)
         )
@@ -3177,7 +3177,7 @@
     (property "Value" "EC_SW" (at 83.82 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 83.82 46.355 0)
+    (property "Footprint" "" (at 83.82 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 83.82 46.355 0)
@@ -3197,7 +3197,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW4") (unit 1)
         )
@@ -3219,7 +3219,7 @@
     (property "Value" "EC_SW" (at 137.16 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 137.16 73.025 0)
+    (property "Footprint" "" (at 137.16 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 137.16 73.025 0)
@@ -3239,7 +3239,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW21") (unit 1)
         )
@@ -3261,7 +3261,7 @@
     (property "Value" "EC_SW" (at 101.6 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 101.6 73.025 0)
+    (property "Footprint" "" (at 101.6 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 101.6 73.025 0)
@@ -3281,7 +3281,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW19") (unit 1)
         )
@@ -3303,7 +3303,7 @@
     (property "Value" "EC_SW" (at 119.38 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 119.38 46.355 0)
+    (property "Footprint" "" (at 119.38 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 119.38 46.355 0)
@@ -3323,7 +3323,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW6") (unit 1)
         )
@@ -3345,7 +3345,7 @@
     (property "Value" "EC_SW" (at 226.06 42.545 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_plate_cut_1U_14x14mm" (at 226.06 46.355 0)
+    (property "Footprint" "" (at 226.06 46.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 226.06 46.355 0)
@@ -3365,7 +3365,7 @@
           (reference "SW1") (unit 1)
         )
       )
-      (project "plate2"
+      (project "plate"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/0c91783a-7f37-487c-890c-267b7ea97ec7"
           (reference "SW12") (unit 1)
         )

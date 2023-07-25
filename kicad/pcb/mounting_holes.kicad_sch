@@ -236,6 +236,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 87.63 152.4 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 62ce07cd-6145-438b-be28-1434a9937793)
+    (property "Reference" "H25" (at 90.17 151.13 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 90.17 153.67 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965" (at 87.63 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 87.63 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "capybully"
+        (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/fc053f6f-64d9-43a0-851d-0a885480448e"
+          (reference "H25") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 109.22 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6d7873a9-7e1e-4a99-926f-5b241c55da05)
@@ -356,6 +380,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 109.22 152.4 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 9a27af10-0ff8-4f13-8e62-d33bad8d37e1)
+    (property "Reference" "H26" (at 111.76 151.13 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 111.76 153.67 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965" (at 109.22 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 109.22 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "capybully"
+        (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/fc053f6f-64d9-43a0-851d-0a885480448e"
+          (reference "H26") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 87.63 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a2159e3d-9610-49b7-862b-53b7c0017af9)
@@ -452,6 +500,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 109.22 146.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid d338176b-b2e6-4373-bc4a-1bdb226877b3)
+    (property "Reference" "H24" (at 111.76 144.78 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 111.76 147.32 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965" (at 109.22 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 109.22 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "capybully"
+        (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/fc053f6f-64d9-43a0-851d-0a885480448e"
+          (reference "H24") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 87.63 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d4ca5ea8-6bb1-4320-9999-eefb48484e09)
@@ -524,6 +596,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 87.63 158.75 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e51e40c3-4e0b-4be6-895d-14341d71500f)
+    (property "Reference" "H27" (at 90.17 157.48 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 90.17 160.02 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965" (at 87.63 158.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 87.63 158.75 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "capybully"
+        (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/fc053f6f-64d9-43a0-851d-0a885480448e"
+          (reference "H27") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 109.22 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e7e3bdd6-825b-4486-b912-2084a9f060e6)
@@ -543,6 +639,30 @@
       (project "capybully"
         (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/fc053f6f-64d9-43a0-851d-0a885480448e"
           (reference "H14") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 87.63 146.05 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid ef7ef3ff-335e-4cf9-971a-d21ee7e1f2ee)
+    (property "Reference" "H23" (at 90.17 144.78 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 90.17 147.32 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_DIN965" (at 87.63 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 87.63 146.05 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "capybully"
+        (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97/fc053f6f-64d9-43a0-851d-0a885480448e"
+          (reference "H23") (unit 1)
         )
       )
     )

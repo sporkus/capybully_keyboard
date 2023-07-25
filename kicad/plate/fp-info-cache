@@ -1,4 +1,4 @@
-21894297156526784
+21966033142099641
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90383,6 +90383,13 @@ ecs_plate_cut_1U
 0
 0
 0
+capacitive_sensors
+ecs_plate_cut_1U_14x14mm
+ StepUp generated footprint
+
+0
+0
+0
 kbd
 1pin_conn
 Resitance 3 pas
@@ -90908,6 +90915,293 @@ waffle
 0
 0
 0
+marbastlib-mx
+LED_MX_3mm
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+marbastlib-mx
+LED_MX_3mm-ROT
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+marbastlib-mx
+LED_MX_6028R
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_6028R-ROT
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+STAB_MX_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_8u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_9u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_ISO-ROT
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_P_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_8u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_9u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+4
+0
+marbastlib-mx
+STAB_MX_P_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_ISO-ROT
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+marbastlib-mx
+SW_MX_1.5u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.25u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u_STP_1.5
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u_STP_1.25
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1u
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+marbastlib-mx
+SW_MX_HS_1.5u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.75u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.75u_STP_1.5
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.75u_STP_1.25
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_S_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
 modified_footprints
 2u_stabilizer_cherry_costar
 
