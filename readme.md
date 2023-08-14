@@ -1,7 +1,7 @@
-Opensource Capactive Sense PCB for bully keyboard
-------------------------------
+Capybully
+---
 
-Capactive sensing pcb for [Bully keyboard](https://mkh.works/#bully).
+Open source capactive sensing pcb for [Bully keyboard](https://mkh.works/#bully).
 
 ### Status
 PCB has been tested and is fully functional.
