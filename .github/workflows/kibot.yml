@@ -38,7 +38,7 @@ jobs:
       uses: INTI-CMNB/KiBot@v2_k7
       with:
         config: kicad/plate/config.kibot.yaml
-        dir: 'plate'
+        dir: 'plate/topre'
         board: 'kicad/plate/plate.kicad_pcb'
         verbose: 0
       continue-on-error: true
@@ -47,7 +47,7 @@ jobs:
       uses: INTI-CMNB/KiBot@v2_k7
       with:
         config: kicad/plate_3u_niz/config.kibot.yaml
-        dir: 'plate'
+        dir: 'plate/3u_niz'
         board: 'kicad/plate_3u_niz/plate.kicad_pcb'
         verbose: 0
       continue-on-error: true
