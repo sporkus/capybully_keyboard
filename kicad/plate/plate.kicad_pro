@@ -517,7 +517,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -560,10 +560,6 @@
     [
       "ba62e47e-9e07-4e97-ab08-24b670d50f97",
       ""
-    ],
-    [
-      "0c91783a-7f37-487c-890c-267b7ea97ec7",
-      "key matrix"
     ]
   ],
   "text_variables": {}
