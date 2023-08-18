@@ -692,26 +692,6 @@
     )
   )
 
-  (sheet (at 41.91 44.45) (size 18.415 19.685) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 0c91783a-7f37-487c-890c-267b7ea97ec7)
-    (property "Sheetname" "key matrix" (at 41.91 43.7384 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "key_matrix.kicad_sch" (at 41.91 64.7196 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "le_capybara"
-        (path "/ca0d59d2-7f9b-4344-99bc-39bc2c8c88cb" (page "2"))
-      )
-      (project "plate"
-        (path "/ba62e47e-9e07-4e97-ab08-24b670d50f97" (page "2"))
-      )
-    )
-  )
-
   (sheet_instances
     (path "/" (page "1"))
   )
