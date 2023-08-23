@@ -37,7 +37,7 @@ jobs:
     - name: generate plate files
       uses: INTI-CMNB/KiBot@v2_k7
       with:
-        config: kicad/plate/config.kibot.yaml
+        config: kicad/plate_topre/config.kibot.yaml
         dir: 'plate/topre'
         board: 'kicad/plate_topre/plate.kicad_pcb'
         verbose: 0
