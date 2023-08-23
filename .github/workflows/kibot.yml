@@ -52,6 +52,15 @@ jobs:
         verbose: 0
       continue-on-error: true
 
+    - name: generate plate files 3
+      uses: INTI-CMNB/KiBot@v2_k7
+      with:
+        config: kicad/plate_universal/config.kibot.yaml
+        dir: 'plate/plate_universal'
+        board: 'kicad/plate_universal/plate.kicad_pcb'
+        verbose: 0
+      continue-on-error: true
+
     - uses: EndBug/add-and-commit@v9
       with:
         add: 'plate documentation'
