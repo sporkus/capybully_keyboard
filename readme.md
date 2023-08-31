@@ -4,7 +4,7 @@ Capybully
 Open source capactive sensing pcb for [Bully keyboard](https://mkh.works/#bully).
 
 ### Status
-PCB has been tested and is fully functional. Still finalizing on plate options.
+PCB has been tested and is fully functional with Niz and Deskeys parts. 
 
 ### Specs
 - MCU: stm32F072CB
