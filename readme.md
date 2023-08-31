@@ -16,7 +16,7 @@ PCB has been tested and is fully functional. Still finalizing on plate options.
 JLCPCB [production files](pcb_production) are provided. Component positions have been verified, but as always, do your own diligence when ordering.
 
 #### Firmware
-- [QMK and vial config](https://github.com/sporkus/qmk_userspace/tree/main/keyboards/sporkus/capybully)
+- [See here](./firmware) for instructions, links to qmk/vial config and binaries.
 
 ## Misc
 #### PCB Renders
