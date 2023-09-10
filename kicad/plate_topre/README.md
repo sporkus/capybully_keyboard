@@ -1,12 +1,8 @@
-# Capybully plate
-
-These plates are generated using http://builder.swillkb.com/ for reference.
-Cutout footprints are placed on top of the reference drawing to allow size adjustments.
+# Topre plate
 
 Layout option is:
-* 2.25/2.75 split bars
-* stepped capslock key
-* split right shift
+* 2.25/2.75 split bars (uses 2u housing)
+* Can use 1u housing without stabilizers for split 3u layout
 
-See [keyboard layout editor](./kle.json) json file for reference.
+See [keyboard layout editor](./capybully_plate.json) json file for reference.
 

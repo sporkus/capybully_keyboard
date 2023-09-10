@@ -46,18 +46,9 @@ jobs:
     - name: generate plate files 2
       uses: INTI-CMNB/KiBot@v2_k7
       with:
-        config: kicad/plate_3u_niz/config.kibot.yaml
-        dir: 'plate/3u_niz'
-        board: 'kicad/plate_3u_niz/plate.kicad_pcb'
-        verbose: 0
-      continue-on-error: true
-
-    - name: generate plate files 3
-      uses: INTI-CMNB/KiBot@v2_k7
-      with:
-        config: kicad/plate_universal/config.kibot.yaml
-        dir: 'plate/plate_universal'
-        board: 'kicad/plate_universal/plate.kicad_pcb'
+        config: kicad/plate_niz/config.kibot.yaml
+        dir: 'plate/plate_niz'
+        board: 'kicad/plate_niz/plate.kicad_pcb'
         verbose: 0
       continue-on-error: true
 

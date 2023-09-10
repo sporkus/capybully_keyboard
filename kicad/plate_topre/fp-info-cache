@@ -1,4 +1,4 @@
-21748034660078099
+21775148929525998
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90307,14 +90307,56 @@ varistor
 2
 2
 capacitive_sensors
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+capacitive_sensors
+MountingHole_3.3mm_M3
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+capacitive_sensors
 capy_pad_1U
+capactive sensor
+
+0
+6
+3
+capacitive_sensors
+capy_pad_1U_90deg
  StepUp generated footprint
 
 0
 4
 3
 capacitive_sensors
-capy_pad_1U_90deg
+capy_pad_2U
+capacitive sensor 2u
+
+0
+6
+3
+capacitive_sensors
+costar_stab_2u
+
+
+0
+0
+0
+capacitive_sensors
+ec_pad_1U
+capactive sensor
+
+0
+6
+3
+capacitive_sensors
+ec_pad_1U_90deg
  StepUp generated footprint
 
 0
@@ -90328,14 +90370,84 @@ ec_plate_cutout_niz_14x14mm
 0
 0
 capacitive_sensors
-ec_plate_cutout_topre_2u
+ecs_pad_combo_0.25u_offset
+
+
+0
+8
+3
+capacitive_sensors
+ecs_pad_combo_0.125u_offset
+
+
+0
+10
+3
+capacitive_sensors
+ecs_pad_combo_0.375u_offset
+
+
+0
+11
+3
+capacitive_sensors
+plate_cut_1U_niz
  StepUp generated footprint
 
 0
 0
 0
 capacitive_sensors
-ec_plate_cutout_topre_14.1x14.7mm
+plate_cut_1U_topre
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_2U_topre
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.25u_offset_niz
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.25u_offset_topre
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.125u_offset_niz
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.125u_offset_topre
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.375u_offset_niz
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.375u_offset_topre
  StepUp generated footprint
 
 0

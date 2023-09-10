@@ -1,4 +1,4 @@
-21768298877706553
+21785292048376692
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90307,14 +90307,14 @@ varistor
 2
 2
 capacitive_sensors
-MountingHole_2.2mm_M2_Pad
-Mounting Hole 2.2mm, M2
-mounting hole 2.2mm m2
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
-1
-1
+0
+0
 capacitive_sensors
-MountingHole_3.4mm
+MountingHole_3.3mm_M3
 Mounting Hole 2.2mm, no annular, M2
 mounting hole 2.2mm no annular m2
 0
@@ -90322,7 +90322,7 @@ mounting hole 2.2mm no annular m2
 0
 capacitive_sensors
 capy_pad_1U
- StepUp generated footprint
+capactive sensor
 
 0
 6
@@ -90335,26 +90335,40 @@ capy_pad_1U_90deg
 4
 3
 capacitive_sensors
-ecs_pad_1.75u_1.25u_combo
+capy_pad_2U
+capacitive sensor 2u
+
+0
+6
+3
+capacitive_sensors
+costar_stab_2u
 
 
 0
-8
+0
+0
+capacitive_sensors
+ec_pad_1U
+capactive sensor
+
+0
+6
 3
 capacitive_sensors
-ecs_pad_1U_no_ring
+ec_pad_1U_90deg
  StepUp generated footprint
 
 0
 4
 3
 capacitive_sensors
-ecs_pad_1U_no_ring_90deg
+ec_plate_cutout_niz_14x14mm
  StepUp generated footprint
 
 0
-4
-3
+0
+0
 capacitive_sensors
 ecs_pad_combo_0.25u_offset
 
@@ -90377,7 +90391,63 @@ ecs_pad_combo_0.375u_offset
 11
 3
 capacitive_sensors
-ecs_plate_cut_1U
+plate_cut_1U_niz
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_1U_topre
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_2U_topre
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.25u_offset_niz
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.25u_offset_topre
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.125u_offset_niz
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.125u_offset_topre
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.375u_offset_niz
+ StepUp generated footprint
+
+0
+0
+0
+capacitive_sensors
+plate_cut_combo_0.375u_offset_topre
  StepUp generated footprint
 
 0
