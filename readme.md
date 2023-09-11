@@ -23,6 +23,10 @@ JLCPCB [production files](pcb_production) are provided. Component positions have
 - 50x m2 low profile screws
 
 ## Misc
+#### 3D assembly preview
+* [online viewer](https://3dviewer.net/#model=https://github.com/sporkus/capybully_keyboard/blob/dev/documentation/capybully-3D.step)
+* [step assembly](./documentation/capybully-3D.step)
+
 #### PCB Renders
 ![](./documentation/capybully-top.jpg)
 ![](./documentation/capybully-bottom.jpg)
