@@ -722,7 +722,7 @@
       fcdd8976-4a9c-44cf-8b05-e6ab33f9c465
     )
   )
-  (model "${KIPRJMOD}/libs/capacitive_sensors.pretty/deskeys_1u.step"
+  (model "${KIPRJMOD}/Libraries/capacitive_sensors.pretty/deskeys_1u.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

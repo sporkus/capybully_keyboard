@@ -1819,7 +1819,7 @@
     )
   )
 
-  (symbol (lib_id "cipulot_parts:EC_SW") (at 30.48 126.365 0) (unit 1)
+  (symbol (lib_id "cipulot_parts:EC_SW") (at 30.48 126.365 0) (mirror y) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 231fcb19-3521-4e1a-9125-a35c951c590c)
     (property "Reference" "SW1" (at 30.48 120.015 0)
@@ -2457,7 +2457,7 @@
     )
   )
 
-  (symbol (lib_id "cipulot_parts:EC_SW") (at 190.627 126.365 0) (unit 1)
+  (symbol (lib_id "cipulot_parts:EC_SW") (at 190.627 126.365 0) (mirror y) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 57d5c02d-0a05-40a7-b7ab-189529caeeea)
     (property "Reference" "SW1" (at 190.627 120.015 0)
@@ -2785,7 +2785,7 @@
     (property "Value" "EC_SW" (at 30.48 69.215 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "capacitive_sensors:ecs_pad_1.75u_1.25u_combo" (at 30.48 73.025 0)
+    (property "Footprint" "capacitive_sensors:ecs_pad_combo_0.25u_offset" (at 30.48 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 30.48 73.025 0)
@@ -2860,7 +2860,7 @@
     )
   )
 
-  (symbol (lib_id "cipulot_parts:EC_SW") (at 48.26 126.365 0) (mirror y) (unit 1)
+  (symbol (lib_id "cipulot_parts:EC_SW") (at 48.26 126.365 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid b685b6e4-3251-4154-8205-a8284e7ce986)
     (property "Reference" "SW1" (at 48.26 120.015 0)
@@ -3179,7 +3179,7 @@
     )
   )
 
-  (symbol (lib_id "cipulot_parts:EC_SW") (at 208.407 126.365 0) (mirror y) (unit 1)
+  (symbol (lib_id "cipulot_parts:EC_SW") (at 208.407 126.365 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid dcf46038-875b-4598-90f6-fa41c18963f3)
     (property "Reference" "SW1" (at 208.407 120.015 0)
