@@ -10,7 +10,7 @@ PCB has been tested and is fully functional with Niz and Deskeys parts.
 - MCU: stm32F072CB
 
 ### Supported layouts
-![](./documentation/layout.png) + 6u
+![](./documentation/layout.png)
 
 ### Production files
 JLCPCB [production files](pcb_production) are provided. Component positions have been verified, but as always, do your own diligence when ordering.
