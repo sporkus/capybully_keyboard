@@ -645,7 +645,7 @@
       )
     )
   )
-  (model "${KIPRJMOD}/libs/capacitive_sensors.pretty/deskeys_2u.step"
+  (model "${KIPRJMOD}/library/capacitive_sensors.pretty/deskeys_2u.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

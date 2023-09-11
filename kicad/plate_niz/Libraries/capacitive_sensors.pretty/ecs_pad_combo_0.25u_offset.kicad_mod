@@ -1,7 +1,7 @@
 (footprint "ecs_pad_combo_0.25u_offset" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at -2.169706 -7.935429 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at -2.169706 -7.935429 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 2a6c7d63-ccb2-424e-8b35-dc9530ae3050)
   )
@@ -792,7 +792,6 @@
       26ba74a0-a416-44bf-b470-d952d15fd7ed
       29e036eb-7d26-44c6-8209-505d982ba275
       2a31d992-3fc0-4564-8756-f0e8b070ce47
-      2a6c7d63-ccb2-424e-8b35-dc9530ae3050
       2b967564-c6f2-4775-b539-3af778561e79
       3661f425-eedc-41fb-b9cc-62ab87686b25
       3e3ac977-c7f5-4526-8506-74023dc4b73a

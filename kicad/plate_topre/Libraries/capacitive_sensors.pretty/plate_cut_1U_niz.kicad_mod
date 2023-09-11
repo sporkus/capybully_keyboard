@@ -6,7 +6,7 @@
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     (tstamp 2ff15691-c9f8-4e08-a694-3230522780fc)
   )
-  (fp_text value "13.9x13.9mm" (at -2.35 -5.65) (layer "Cmts.User") hide
+  (fp_text value "13.9x13.9mm" (at 0 -2.8) (layer "Cmts.User") hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     (tstamp 098afe52-27f0-4ec0-bf39-4eb766d2a851)
   )

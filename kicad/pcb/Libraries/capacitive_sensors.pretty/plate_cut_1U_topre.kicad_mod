@@ -6,7 +6,7 @@
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     (tstamp 2ff15691-c9f8-4e08-a694-3230522780fc)
   )
-  (fp_text value "Value " (at -4.9 -5.6) (layer "F.SilkS") hide
+  (fp_text value "14 x 14.6mm" (at -2.4 -5.5) (layer "Cmts.User") hide
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     (tstamp 098afe52-27f0-4ec0-bf39-4eb766d2a851)
   )
@@ -50,6 +50,10 @@
     (stroke (width 0.1) (type solid)) (layer "Dwgs.User") (tstamp 899ba36c-67eb-4ac2-8d88-22c5aef856a5))
   (fp_arc (start 9.3 6.1) (mid 8.42132 8.22132) (end 6.3 9.1)
     (stroke (width 0.1) (type solid)) (layer "Dwgs.User") (tstamp 192ee45a-04f0-444f-a715-7f610c5f4c95))
+  (fp_line (start -0.5 0) (end 0.5 0)
+    (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp 24e62354-7399-4697-b330-115ffbe048f2))
+  (fp_line (start 0 -0.5) (end 0 0.5)
+    (stroke (width 0.1) (type default)) (layer "Cmts.User") (tstamp 1281ebce-224f-4d47-b55f-e69a0c882fcf))
   (fp_line (start -7.3 -6) (end -7.3 6)
     (stroke (width 0.05) (type solid)) (layer "Edge.Cuts") (tstamp 3166f17b-2ebf-4195-9dad-0b58d50a4f80))
   (fp_line (start -7.3 -6) (end -6.3 -7)
@@ -89,10 +93,5 @@
       db59d423-64f2-4ee1-ba92-a4b6c52db87a
       f2b361a4-48ff-40f6-8558-200aa3d308df
     )
-  )
-  (model "${KICAD6_3DMODEL_DIR}/cipulot_parts.3dshapes/Topre_OEM_1U.step"
-    (offset (xyz 0 0 -4.75))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
   )
 )
